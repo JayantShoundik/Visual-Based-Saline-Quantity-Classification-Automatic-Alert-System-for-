@@ -32,6 +32,8 @@ Provide real-time alerts for critical fluid levels
 Image Acquisition (IoT Integration)
 Cameras/sensors capture IV bottle images in real-time.
 
+**DataSets** :- https://drive.google.com/drive/folders/1lDlCozQM1uTRAvVPWoiwf0JBNEXhS8YZ?usp=drive_link
+
 Machine Learning Classification
 A trained ML model processes images and classifies fluid levels into:
 
