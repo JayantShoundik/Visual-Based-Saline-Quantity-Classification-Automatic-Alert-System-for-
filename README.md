@@ -108,6 +108,8 @@ Alert system functions reliably for critical thresholds.
 
 Dataset imbalance (absence of full-state samples) identified as a limitation.
 
+Colab Notebook :- https://colab.research.google.com/drive/1CRKQvjQYH79hK0-pocVF2EjC2ZxdLQx0?usp=sharing
+
 ⚠️ Limitations
 
 No sal_data_full samples in test dataset.
