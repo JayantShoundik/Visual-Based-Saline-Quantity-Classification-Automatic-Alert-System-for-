@@ -1,4 +1,4 @@
-ICU IV Fluid Monitoring & Automated Alert System using Machine Learning and IoT
+**ICU IV Fluid Monitoring & Automated Alert System using Machine Learning and IoT**
 📌 Overview
 
 This project presents a Machine Learning–based intelligent monitoring system designed for real-time tracking of IV saline and glucose bottle levels in a hospital ICU setting.
